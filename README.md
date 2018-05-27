@@ -1,2 +1,7 @@
 # react-admin
-CRM system built with react
+搭建crm后台系统
+
+
+
+`create-react-app`
+

@@ -6,6 +6,7 @@ export default class Content extends Component {
     render () {
         return (
             <div className="content-wrapper">
+                default Content
                 {/*<section className="content-header">
                     <div className="row">
                         <div className="col-md-12">
